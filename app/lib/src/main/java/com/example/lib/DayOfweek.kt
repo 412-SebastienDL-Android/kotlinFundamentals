@@ -15,5 +15,6 @@ fun main () {
         6,7 -> println("Es fin de semana")
         else -> println("No es un dia de la semana")
         //Haciendo un cambio
+        //Haciendo cambio 2
     }
 }
